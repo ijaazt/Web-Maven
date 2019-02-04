@@ -16,7 +16,7 @@ Lastly, you will need to enter your Project Structure setting and naviage to the
 ![web module](web-module.png)
 ![web module setup](web-module-setup.png)
 
-Lastly, if you want to edit a current project to define it as a web maven project you will need to both modify it's directory as needed, and you will need to add this line to the project's pom.xml: `<packaging>war</packaging>`
+Lastly, if you want to edit a current project to define it as a web maven project you will need to both modify it's directory as needed and add this line to the project's pom.xml: `<packaging>war</packaging>`
 
 I hope this helps.
 
