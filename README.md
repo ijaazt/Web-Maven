@@ -14,7 +14,7 @@ IntelliJ, by default, doesn't know that your java folder consists of your source
 Lastly, you will need to enter your Project Structure setting and naviage to the Modules subsection. Within the the Modules you will need to add a web module. You might need to edit the web module to point towards your *webapp* directory, as IntelliJ's web setup is different.
 
 ![web module](web-module.png)
-![web module setup](web-module setup.png)
+![web module setup](web-module-setup.png)
 
 Lastly, if you want to edit a current project to define it as a web maven project you will need to both modify it's directory as needed, and you will need to add this line to the project's pom.xml: `<packaging>war</packaging>`
 
