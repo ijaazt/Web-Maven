@@ -1,6 +1,6 @@
 # A Guide To Creating an IDE Independent Java Web Maven Project
 
-When you create a new Maven Project from with IntelliJ, the easiest approach is to create a maven project from an archetype. The archetype creates the correct maven pom.xml and directory structure. 
+When you create a new Maven Project with IntelliJ, the easiest approach is to create a maven project from an archetype. The archetype creates the correct maven pom.xml and directory structure. 
 
 ![](project-creation.png)
 
